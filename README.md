@@ -6,6 +6,6 @@
 >  - basket
 
 <p align="center">
-  <img src="/screenshots/basket.png" height="400" />
   <img src="/screenshots/drinks.png" height="400" />
+  <img src="/screenshots/basket.png" height="400" />
 </p>
